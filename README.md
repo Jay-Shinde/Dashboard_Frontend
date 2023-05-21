@@ -1,3 +1,6 @@
+## Preview:
+![demo](https://github.com/Jay-Shinde/Dashboard_Frontend/assets/90144181/bfca3e89-93a0-452c-84b9-b82791cb70d5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
